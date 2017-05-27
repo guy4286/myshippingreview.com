@@ -351,8 +351,8 @@ body {
 	position: relative;
 }
 #body div .section .article {
-	height: 753px;
-	/*height: 953px;*/
+	/*height: 753px;*/
+	height: 990px;
 	margin-bottom: 25px;
 	padding: 55px 15px 20px;
 	text-align: right;

@@ -91,6 +91,12 @@ body {
 #header .section ul li.selected a {
 	background: url(../images/bg-nav-left-selected.gif) no-repeat top left;
 }
+#header .section ul li.fb {
+	background: url("");
+}
+#header .section ul li.fb a {
+	background: url("");
+}
 /* Entire header including border. */
 #header .article {
 	background: #fff;
